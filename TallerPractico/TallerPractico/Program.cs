@@ -2,15 +2,14 @@
 using System.IO;
 using System.Text;
 
-namespace TallerProgramacion_S2 {
+namespace TallerProgramacion {
     class Program {
         static void Main(string[] args) {
-            // Personalización de consola
+            
             Console.Title = "Práctica de Ingeniería de Archivos - IUJO";
             Console.WriteLine("REPORTE DE EJECUCIÓN");
 
-            // --- TAREA 1: VALIDACIÓN DE CREDENCIALES ---
-            // Usamos variables con nombres distintos
+            // TAREA 1: VALIDACIÓN DE CREDENCIALES
             string inputUsuario = "user_test;password123"; 
             string[] datosSeparados = inputUsuario.Split(';');
 
@@ -21,7 +20,7 @@ namespace TallerProgramacion_S2 {
                 Console.WriteLine("Desafío 1: Aviso de seguridad registrado.");
             }
 
-            // --- TAREA 2: DUPLICACIÓN BINARIA ---
+            // TAREA 2: DUPLICACIÓN BINARIA
             string pathOriginal = "avatar.jpg";
             string pathCopia = "copia_seguridad.jpg";
 
@@ -43,7 +42,7 @@ namespace TallerProgramacion_S2 {
             }
             Console.WriteLine("Desafío 2: Duplicación finalizada con éxito.");
 
-            // --- TAREA 3: FILTRO DE ALMACENAMIENTO ---
+            //TAREA 3: FILTRO DE ALMACENAMIENTO
             // Usamos DirectoryInfo en lugar de Directory para variar la técnica
             DirectoryInfo directorioApp = new DirectoryInfo(AppDomain.CurrentDomain.BaseDirectory);
             FileInfo[] archivosEncontrados = directorioApp.GetFiles();

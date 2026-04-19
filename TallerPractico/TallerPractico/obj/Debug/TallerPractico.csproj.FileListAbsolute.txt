@@ -3,3 +3,8 @@ C:\Users\NBS Store\Documents\TallerPractico\TallerPractico\bin\Debug\TallerPract
 C:\Users\NBS Store\Documents\TallerPractico\TallerPractico\obj\Debug\TallerPractico.csprojResolveAssemblyReference.cache
 C:\Users\NBS Store\Documents\TallerPractico\TallerPractico\obj\Debug\TallerPractico.exe
 C:\Users\NBS Store\Documents\TallerPractico\TallerPractico\obj\Debug\TallerPractico.pdb
+C:\Users\NBS Store\Documents\REPO_Taller01_B\TallerPractico\TallerPractico\bin\Debug\TallerPractico.exe
+C:\Users\NBS Store\Documents\REPO_Taller01_B\TallerPractico\TallerPractico\bin\Debug\TallerPractico.pdb
+C:\Users\NBS Store\Documents\REPO_Taller01_B\TallerPractico\TallerPractico\obj\Debug\TallerPractico.csprojResolveAssemblyReference.cache
+C:\Users\NBS Store\Documents\REPO_Taller01_B\TallerPractico\TallerPractico\obj\Debug\TallerPractico.exe
+C:\Users\NBS Store\Documents\REPO_Taller01_B\TallerPractico\TallerPractico\obj\Debug\TallerPractico.pdb
